@@ -1,1 +1,2 @@
 haroldli/xiaoya-tvbox
+mosdns
